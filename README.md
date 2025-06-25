@@ -55,11 +55,15 @@ A decentralized, secure, and privacy-preserving Electronic Health Record (EHR) s
 
 ### 📥 Installation
 
-bash
+```bash
 git clone https://github.com/GMGanesh2003/ehr-frontend.git
+```
+```bash
 cd ehr-frontend
+```
+```bash
 npm install
-`
+```
 
 ### ▶️ Run the App
 
