@@ -1,4 +1,4 @@
-# 🏥 Blockchain-based Electronic Health Records (EHR)
+# 🏥 Blockchain based Electronic Health Records (EHR)
 
 A decentralized, secure, and privacy-preserving Electronic Health Record (EHR) system leveraging blockchain technology. This project provides a modern React-based frontend interface for patients, doctors, and healthcare providers to interact with medical records securely and transparently.
 
@@ -16,8 +16,8 @@ A decentralized, secure, and privacy-preserving Electronic Health Record (EHR) s
 
 - ⚛️ **Frontend:** React.js, Tailwind CSS  
 - ⛓️ **Blockchain:** Solidity Smart Contracts (HardHat) 
-- 🦊 **Wallet Integration:** MetaMask, Web3.js / Ethers.js  
-- 📁 **Storage:** IPFS (optional)  
+- 🦊 **Wallet Integration:** MetaMask, Ethers.js  
+- 📁 **Storage:** IPFS 
 - 🔑 **Authentication:** Wallet-based login
 
 
